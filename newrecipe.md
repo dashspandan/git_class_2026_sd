@@ -23,17 +23,17 @@ Topping
 2 Tablespoons sugar
 Preparation
 1
-■Preheat the oven to 325º F. Lightly butter the bottom and sides of a 9-by-5-inch loaf pan.
+Preheat the oven to 325º F. Lightly butter the bottom and sides of a 9-by-5-inch loaf pan.
 2
-■Mix flour, salt, baking powder, baking soda, corn starch, cinnamon and sugar in a large bowl
+Mix flour, salt, baking powder, baking soda, corn starch, cinnamon and sugar in a large bowl
 3
-■Add butter, eggs, and vanilla extract and mix until almost all the dry ingredients are incorporated.
+Add butter, eggs, and vanilla extract and mix until almost all the dry ingredients are incorporated.
 4
-■Add mashed bananas and mix until everything is homogenous.
+Add mashed bananas and mix until everything is homogenous.
 5
-■Pour batter into the prepared pan and smooth the top with a spatula to level it.
+Pour batter into the prepared pan and smooth the top with a spatula to level it.
 6
-■Slice the banana for the topping very thinly on a bias and place on top the batter in an appealing pattern. Sprinkle with the remaining sugar.
+Slice the banana for the topping very thinly on a bias and place on top the batter in an appealing pattern. Sprinkle with the remaining sugar.
 7
-■Bake at 325º F for about an hour, or until the bread starts to pull away from the pan on the sides or a tooth pick test comes out clean.
+Bake at 325º F for about an hour, or until the bread starts to pull away from the pan on the sides or a tooth pick test comes out clean.
 
