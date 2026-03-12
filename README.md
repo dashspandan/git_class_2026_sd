@@ -1,4 +1,3 @@
-## This is just a simple Readme file for this directory. There are certain recipes and we are learning how to merge branches.
+# My recipe for the 2026 git class
 
-
-Yada, Yada, Yada
+Banana bread recipe for 2026 git class at IPGP
