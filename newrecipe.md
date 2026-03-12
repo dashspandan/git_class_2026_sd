@@ -1,4 +1,7 @@
-Banana Bread
+#A delicious recipe
+##Made by me
+
+#Banana Bread
 
 This is a recipe addapted from Tartine. I had remembered seeing a banana date “tea cake” in the book and thinking to myself that the ingredients were almost identical to a standard banana bread. But a little voice in my head said if it is good enough for Tartine, something must be special about it. While the flavor improves with time, the texture does not. But that shouldn't matter, it will be gone in a day!
 
