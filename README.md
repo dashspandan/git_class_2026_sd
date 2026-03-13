@@ -10,8 +10,6 @@ Lolololololololol
 
 Time to diverge and see how git handles it.
 
-Yes, it does it properly.
-
 Diverge much, will you?
 
 Heh, screwed are you?
