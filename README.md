@@ -12,10 +12,11 @@ Time to diverge and see how git handles it.
 
 Yes, it does it properly.
 
-<<<<<<< HEAD
 Diverge much, will you?
 
 Heh, screwed are you?
-=======
+
 No u.
->>>>>>> 50879ce (Updated README to diverge from remote/origin/main to test conflict resolution.)
+
+
+Well, that wasn't cool, was it. :( Well, at least everything is rebased now. 
