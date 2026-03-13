@@ -10,8 +10,6 @@ Time to diverge and see how git handles it.
 
 Diverge much, will you?
 
-Heh, screwed are you?
-
 No u.
 
 
