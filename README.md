@@ -9,3 +9,5 @@ Yada Yada yada
 Lolololololololol
 
 Time to diverge and see how git handles it.
+
+Yes, it does it properly.
