@@ -6,8 +6,6 @@ Banana bread recipe for 2026 git class at IPGP
 
 Yada Yada yada
 
-Lolololololololol
-
 Time to diverge and see how git handles it.
 
 Yes, it does it properly.
